@@ -5,3 +5,6 @@ Working on bugs in the Touchbar, For basic Functionality of
 ---------------
 |f1| BRIGHTNESS_DOWN|
 |f2| BRIGHTNESS_UP|
+
+documentation in progress...
+Working offline without git for now.
